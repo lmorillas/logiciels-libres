@@ -1,0 +1,468 @@
+"LOGICIEL
+PARENT",CAS D’USAGE,STATUT,"Win 7
+X86/x64",label,"VERSION
+FRANÇAISE",SECTEUR,LINUX,Version,"FORMAT
+ASSOCIÉ",LICENCE,COMPOSANT,ANDROID,FONCTIONNALITÉ
+,,R,X,KeePass,X,Sécurité,2.3,2.3,KDB,GPL2,authentification,2.3,Gestion de mots de passe
+,,FV,X,TrueCrypt,X,Sécurité,7.1,7.1,s.o.,L,chiffrement,,Chiffrement de disques
+,,O,X,VeraCrypt,X,Sécurité,1.16,1.16,s.o.,AGPL,chiffrement,,Chiffrement de disques
+,,R,2,LibreOffice,X,"Espace utilisateur 
+& canal",5,5,ODF 1.2,MPL2,"Consultation et 
+édition de 
+documents",,Suite bureautique
+LibreOffice,,R,2,MultiDiff,X,"Espace utilisateur 
+& canal",1.3.0,1.3.0,s.o.,LGPL2.1,"Consultation et 
+édition de 
+documents",,diffusion multiformat
+LibreOffice,,R,0,Ooo.HG,X,"Espace utilisateur 
+& canal",9.12,9.12,s.o.,"Creative
+Commons","Consultation et 
+édition de 
+documents",,cartes géographie
+LibreOffice,,R,2,Grammalecte,X,"Espace utilisateur 
+& canal",0.4.10.3,0.4.10.3,s.o.,GPL3,"Consultation et 
+édition de 
+documents",,correction grammaticale
+LibreOffice,,R,X,typographytoolbar,X,"Espace utilisateur 
+& canal",1.1,1.1,s.o.,BSD,"Consultation et 
+édition de 
+documents",,outils typographiques
+,,R,,FranceTerme,X,"Espace utilisateur 
+& canal",,,s.o.,CeCILL-C,"Consultation et 
+édition de 
+documents",X,correction anglicismes
+,,R,X,Notepad++,X,"Espace utilisateur 
+& canal",i,6.8.6,TXT,GPL,"Consultation et 
+édition de 
+documents",,Éditeur de textes
+,"sans remplissage de 
+formulaire ni vérification 
+de signature",R,X,SumatraPDF,X,"Espace utilisateur 
+& canal","utiliser 
+Evince",3.1,PDF,GPL3,"Consultation et 
+édition de 
+documents",,Lecture simple de fichier PDF
+,,R,X,PDFCreator,X,"Espace utilisateur 
+& canal",,2.2,PDF,AGPL,"Consultation et 
+édition de 
+documents",,Création de PDF (imprimante)
+,,R,X,BlueGriffon,X,"Espace utilisateur 
+& canal",1.8,1.8,HTML,LGPL/GPL/MPL,"Consultation et 
+édition de 
+documents",,Éditeur HTML
+,,R,X,Qgis,X,"Espace utilisateur 
+& canal",2.12,2.12,,GPL,"Consultation et 
+édition de 
+documents",,"Système d’information 
+géographique"
+,,R,X,Scribus,X,"Espace utilisateur 
+& canal",1.5,1.5,SLA,GPL,"Consultation et 
+édition de 
+documents",,PAO
+,,R,X,VLC,X,"Espace utilisateur 
+& canal",2.2.1,2.2.1,s.o.,GPL,"Consultation et 
+édition de 
+documents","0.9 en 
+version bêta",Lecteur multimédia
+,,O,X,Avidemux,X,"Espace utilisateur 
+& canal",2.6,2.6,,GPL2,"Consultation et 
+édition de 
+documents",,Montage vidéo
+,,R,X,Audacity,X,"Espace utilisateur 
+& canal",2.1,2.1,,GPL2,"Consultation et 
+édition de 
+documents",,Enregistrement et édition de sons
+,,R,X,Inkscape,X,"Espace utilisateur 
+& canal",0.91,0.91,SVG,GPL,"Consultation et 
+édition de 
+documents",,Dessin (vectoriel)
+,,R,X,The Gimp,X,"Espace utilisateur 
+& canal",2.8.14,2.8,XCF,GPL3,"Consultation et 
+édition de 
+documents",,Dessin (matriciel)
+,,O,,"LibreOffice sous 
+Android",X,"Espace utilisateur 
+& canal",,,ODF,MPL2,"Consultation et 
+édition de 
+documents",5,lecture de fichers ODF sur Android
+,,R,,"OpenDocument
+Reader",X,"Espace utilisateur 
+& canal",,,ODF,GPL,"Consultation et 
+édition de 
+documents",4,lecture de fichers ODF sur Android
+,,O,X,LibreCAD,X,"Espace utilisateur 
+& canal",2.08,2.08,"DXF, DWG",GPL2,"Consultation et 
+édition de 
+documents",,Visionner des fichiers AutoCAD
+,,R,X,DIA,X,"Espace utilisateur 
+& canal",0.97,0.97,"nombreux 
+voir fiche",GPL2,"Consultation et 
+édition de 
+documents",,Schémas
+,,R,X,Thunderbird,X,"Espace utilisateur 
+& canal",38,38,s.o.,MPL2,"messagerie & 
+agenda & contacts",,Courrielleur
+,,R,X,Pidgin,X,"Espace utilisateur 
+& canal",2.10.11,2.10.11,s.o.,GPL2,"messagerie & 
+agenda & contacts",,Client de messagerie instantanée
+,,R,X,Filezilla,X,"Espace utilisateur 
+& canal",3.14,3.14,s.o.,GPL,"messagerie & 
+agenda & contacts",,Client FTP
+,,R,X,Firefox ESR,X,"Espace utilisateur 
+& canal",38 ESR,38 ESR,HTML,MPL2,navigateur web,,Navigateur
+Firefox,,R,X,IE-Tab+,X,"Espace utilisateur 
+& canal",non,2.04,s.o.,MPL v1.1,navigateur web,,"Pour voir une page dans Ffx avec 
+le rendu IE"
+Firefox,,O,X,"ODF Viewer 
+(WebODF)",,"Espace utilisateur 
+& canal",0,"0.5.3.1-
+Signed",ODF,AGPL,navigateur web,,"Visualisation des ODF (surtout 
+ODT) dans un onglet de Firefox"
+,,R,X,NVDA,X,"Espace utilisateur 
+& canal",0,2015.4,s.o.,GPL2,accessibilité,,lecteur d’écran
+,,R,X,Freeplane,,"Espace utilisateur 
+& canal",1.3,1.3,,GPL2,"outils de 
+productivité",,Grapheur d'idées
+,,R,X,ProjectLibre,,"Espace utilisateur 
+& canal",1.6.2,1.6.2,"POD et 
+XML",CPA,"outils de 
+productivité",,Gestion de projet
+,,R,2,PeaZIP,X,"Espace utilisateur 
+& canal",5.8,5.8,nombreux,GPL,"compression & 
+décompression",,Compression
+,,R,X,Infrarecorder,X,"Espace utilisateur 
+& canal",i,0.53,s.o.,GPL3,périphériques,,Gravure CD / DVD
+,,R,X,GreenShot,X,"Espace utilisateur 
+& canal",i,1.2.8.12,nombreux,GPL,périphériques,,Capture d'écran
+,,R,X,UltraDefrag,X,"Espace utilisateur 
+& canal",i,6.1,s.o.,GPL,gestion de stockage,,Défragmentation
+,,O,X,DVD Styler,X,"Espace utilisateur 
+& canal",2.9.4,2.9.4,nombreux,GPL,gestion de stockage,,"Création de DVD vidéo avec un 
+menu de navigation."
+,,O,X,Metamorphose,,"Espace utilisateur 
+& canal",1.1,1.1,s.o.,GPL2,"synchronisation, 
+réplication, 
+déduplication",,Renommage de fichiers par lots
+,,O,X,UltraCopier,,"Espace utilisateur 
+& canal",1.2,1.2,s.o.,GPL,"synchronisation, 
+réplication, 
+déduplication",,"Copie de fichiers en nombre 
+améliorée"
+,,R,X,Synkron,X,"Espace utilisateur 
+& canal",1.6,1.6,s.o.,GPL2,"synchronisation, 
+réplication, 
+déduplication",,Synchronisation Sauvegarde
+,,R,,"OCS Inventory NG 
+serveur",X,"Espace utilisateur 
+& canal",2.1,,s.o.,GPL2,"Déploiement
+Gestion d’actif et de
+configuration",,"Inventaire, télédéploiement et 
+découverte du réseau"
+OCS,,R,X,Agent,X,"Espace utilisateur 
+& canal",2.1,2.1,s.o.,GPL2,"Déploiement
+Gestion d’actif et de
+configuration",,"Inventaire, télédéploiement et 
+découverte du réseau"
+OCS,,O,X,Security,,"Espace utilisateur 
+& canal",2.1,,s.o.,GPL2,"Déploiement
+Gestion d’actif et de
+configuration",,"Récupérer les informations de 
+sécurité"
+OCS,,O,X,CustomAppli/fr,,"Espace utilisateur 
+& canal",2.1,,s.o.,GPL2,"Déploiement
+Gestion d’actif et de
+configuration",,"Récupérer les informations d'un 
+logiciel spécifique dans un fichier 
+texte"
+OCS,,O,,MSOfficeKeys,,"Espace utilisateur 
+& canal",2.1,,s.o.,GPL2,"Déploiement
+Gestion d’actif et de
+configuration",,Récupérer les licences Office
+OCS,,O,,WinServices/fr,,"Espace utilisateur 
+& canal",2.1,,s.o.,GPL2,"Déploiement
+Gestion d’actif et de
+configuration",,"Récupérer la liste des services et 
+leur état"
+,,R,,GLPI,X,"Espace utilisateur 
+& canal",0.85,,s.o.,GPL2,"Déploiement
+Gestion d’actif et de
+configuration",,Gestion de parc et suivi d'incidents
+GLPI,,R,,Reports (rapports),,"Espace utilisateur 
+& canal",1.9,,s.o.,AGPL3,"Déploiement
+Gestion d’actif et de
+configuration",,"Rapports supplémentaires à ceux 
+inclus dans GLPI"
+GLPI,,R,,"PDF (impression de 
+pdf)",,"Espace utilisateur 
+& canal",0.86,,s.o.,AGPL3,"Déploiement
+Gestion d’actif et de
+configuration",,Export en pdf des fiches GLPI
+GLPI,,R,,WebService,,"Espace utilisateur 
+& canal",1.6,,s.o.,AGPL3,"Déploiement
+Gestion d’actif et de
+configuration",,"Serveur de services web 
+permettant à une application 
+externe d'interroger et de piloter 
+GLPI."
+GLPI,Gestion parc,R,,OCS Inventory ng,X,"Espace utilisateur 
+& canal",1.1.2,,s.o.,GPL2+,"Déploiement
+Gestion d’actif et de
+configuration",,"Automatisation de l'import 
+OCSInventory-NG"
+GLPI,,O,,FusionInventory,,"Espace utilisateur 
+& canal",0.85+1.3,,s.o.,AGPL3+,"Déploiement
+Gestion d’actif et de
+configuration",,"Inventaire, télédéploiement et 
+découverte du réseau"
+GLPI,Gestion parc,O,X,Mobile,,"Espace utilisateur 
+& canal",1.1.5,,s.o.,GPL2+,"Déploiement
+Gestion d’actif et de
+configuration",,"Affichage de GLPI pour terminaux 
+mobiles et tablettes"
+GLPI,Gestion parc,R,,Item Uninstallation,X,"Espace utilisateur 
+& canal",,,s.o.,GPL2+,"Déploiement
+Gestion d’actif et de
+configuration",,Déinstallation d’objets inventoriés
+GLPI,Gestion parc,R,,Data Injection,X,"Espace utilisateur 
+& canal",2.4.1,,s.o.,GPL2+,"Déploiement
+Gestion d’actif et de
+configuration",,"Injection de données dans GLPI à 
+l'aide de fichiers CSV"
+GLPI,Gestion des tickets,R,,Additional Alerts,X,"Espace utilisateur 
+& canal",1.7.0,,s.o.,GPL2+,"Déploiement
+Gestion d’actif et de
+configuration",,"Notifications supplémentaires à 
+celles incluses dans GLPI"
+GLPI,Gestion des tickets,R,,Escalation,X,"Espace utilisateur 
+& canal",0.85+1.0,,s.o.,GPL2+,"Déploiement
+Gestion d’actif et de
+configuration",,Escalade de tickets
+GLPI,Gestion des tickets,R,,"Behaviors 
+(Comportements)",X,"Espace utilisateur 
+& canal",0.9,,s.o.,AGPL3,"Déploiement
+Gestion d’actif et de
+configuration",,"Options de configuration 
+supplémentaires"
+GLPI,Gestion des tickets,O,,TimeLineTicket,,"Espace utilisateur 
+& canal",,,s.o.,GPL2+,"Service Level 
+Management",,"Affichage graphique des délais de 
+prise en compte des incidents + 
+indicateurs sous forme de rapports"
+,,R,,Clonezilla,,"Espace utilisateur 
+& canal",2.4.2,,,GPL,"Synchronisation, 
+réplication, 
+déduplication",,Clonage de disque et partitions
+,,R,,"DBAN
+Darik's Boot and Nuke",,Sécurité,2.3.0,,,GPL2,"Protection des 
+données",,"Effacement complet de tous les 
+supports magnétiques d’une 
+machine."
+ECLIPSE,,R,2,ACCELEO,,"Conception & 
+Développement",3.5.1,,,"EPL (non compatible 
+GPL)","Environnement de 
+développement 
+intégré (IDE)",,"Outil et/ou plugin de génération de 
+tout ou partie du code"
+,,R,2,ECLIPSE,,"Conception & 
+Développement",4.5,,,"EPL (non compatible 
+GPL)","Environnement de 
+développement 
+intégré (IDE)",,Environnement de développement
+,,R,2,MANTIS BT,,"Conception & 
+Développement",1.2,,,GPL,"Gestion des 
+Anomalies",,Outil de remontée de bug
+,,R,2,GIT,,"Conception & 
+Développement",1.9,,,GPL2,"Gestion du code 
+source",,"Outil de gestion des configurations 
+(serveur)"
+,,R,2,MAVEN,,"Conception & 
+Développement",3.1.1,,,Apache 2.0,"Installation, 
+Packaging, Diffusion
+et Distribution",,"Outil de gestion des dépendances 
+entre les différents composants 
+d'un projet et cycle de vie"
+,,R,2,NEXUS,,"Conception & 
+Développement",2.10,,,,"Installation, 
+Packaging, Diffusion
+et Distribution",,Dépôt d'artefacts
+,,R,2,PENCIL,,"Conception & 
+Développement",2.0,,,GPL2,"Outils d’analyse, de 
+Modélisation et de 
+gestion de 
+Patrimoine",,"Outil de maquettage IHM (statique 
+et/ou dynamique)"
+,,R,2,SONARQUBE,,"Conception & 
+Développement",5.1,,,LGPL,"Qualité et sécurité 
+du code source",,"Tableau de bord d'indicateurs de 
+qualité"
+,,"R
+R
+R",2,"Ensemble d'outils 
+complémentaires
+FINDBUGS
+CHECKSTYLE
+PMD",,"Conception & 
+Développement","2.0
+5.5
+4.3",,,"LGPL
+LGPL
+BSD","Qualité et sécurité 
+du code source",,"Outil de détection de mauvaises 
+pratiques"
+,,R,2,COBERTURA,,"Conception & 
+Développement",2.1.1,,,GPL2,"Qualité et sécurité 
+du code source",,Couverture du code
+,,R,2,JUNIT,,"Conception & 
+Développement",4.11,,,EPL1,Test & Intégration,,Outil de gestion des tests unitaires
+,,R,2,FITNESSE,,"Conception & 
+Développement",20140418,,,CPL,Test & Intégration,,"Outil d'injection afin tester les 
+couches basses"
+,,R,2,JMETER,,"Conception & 
+Développement",2.13,,,Apache,Test & Intégration,,Robot de test / Injecteurs
+,"Tests orientés Web 
+Services",R,2,SOAPUI,,"Conception & 
+Développement",5.1.3,,,LGPL,Test & Intégration,,Outil d'aide aux tests techniques
+,,R,2,JENKINS,,"Conception & 
+Développement",1580,,,MIT,Test & Intégration,,"Outil d'aide à la livraison (dépôt, 
+intégration continue...)"
+,,R,2,SELENIUM,,"Conception & 
+Développement",2.45,,,Apache 2.0,Test & Intégration,,Automatisation des tests Web
+,,R,2,TESTLINK,,"Conception & 
+Développement",1.9.3,,,GPL,Test & Intégration,,Gestion des campagnes de tests
+,,O,2,SQUASH TM,,"Conception & 
+Développement",1.12.0,,,LGPL,Test & Intégration,,Gestion des campagnes de tests
+,,R,2,JAILER,,"Conception & 
+Développement",4.0.6,,,Apache 2.0,Test & Intégration,,"Génération / Gestion des jeux de 
+données"
+,poste développeur,O,2,CHROMIUM,,"Conception & 
+Développement
+Opérations",46.0 et +,,,BSD,Test & Intégration,,Navigateurs
+,poste développeur,R,2,H2,,"Conception & 
+Développement
+Opérations",1.4.186,,,"MPL 2.0
+EPL 1",Test & Intégration,,Base de données
+,,R,2,JAVAMELODY,,"Conception & 
+Développement
+Opérations",1.56,,,ASL,Test & Intégration,,Outil de monitoring
+,"Outil d'automatisation de 
+la reprise de données",R,2,"TALEND OPEN 
+STUDIO FOR DATA 
+INTEGRATION 
+(BASIC)",,"Conception & 
+Développement
+Opérations",5.6.2,,,Apache 2.0,Test & Intégration,,Reprise des données
+,,R,2,REDMINE,,"Orchestration & 
+logique métier",2.6,,,GPL,Outil collaboratif,,Portail de gestion de projet
+,,"O
+O",2,"FUSIONFORGE
+NOVAFORGE",,"Orchestration & 
+logique métier",,,,GPL,Outil collaboratif,,Forge de développement
+,"Utilisé au sein d'une 
+forge. Gestion des droits 
+délégués à la forge.",R,2,MEDIAWIKI,,"Orchestration & 
+logique métier",1.19,,,GPL2+,Outil collaboratif,,"Outil pour améliorer la collaboration
+entre les différentes parties 
+prenantes"
+,"Utilisé au sein d'une 
+forge.",R,2,PHPBB,,"Orchestration & 
+logique métier",3.0.9,,,GPL2,Outil collaboratif,,Forum
+,Base de production,R,,PostgreSQL,,"Données et 
+contenu",9.4,,,PostgreSQL License,BD Relationnelles,,Base de données transactionnelle
+,Base de production,O,,MARIA DB,,"Données et 
+contenu",,,,"GPL2
+LGPL",BD Relationnelles,,Base transactionnelle cluster
+,"information 
+géographique",R,,PostGIS,,"Données et 
+contenu",2.1,,,GPL,BD Relationnelles,,Base de données\nGéomatique
+,"Base de données 
+Document",R,,MongoDB,,"Données et 
+contenu",3,,,"AGPL 3.0
+Apache 2.0
+CC BY-NC-SA 3.0","Gestionnaire de 
+données non 
+relationnelles",,Base de données NoSQL\n
+,Gros Volume de donnée,O,,Cassandra,,"Données et 
+contenu",,,,Apache 2.0,"Gestionnaire de 
+données non 
+relationnelles",,
+,Portail décisionnel,O,,Pentaho,,"Données et 
+contenu",,,,"Pentaho Community 
+Edition (CE)
+Apache 2.0",Portail décisionnel,,Portail décisionnel
+,En mode cluster,R,,ElasticSearch,,"Données et 
+contenu",2,,,Apache 2.0,Moteur de recherche,,Indexation et recherche plein texte
+,Limité à 1 serveur,R,,Apache SolR,,"Données et 
+contenu",,,,Apache 2.0,Moteur de recherche,,
+,en centre de production,R,,"CentOS (souche 
+Redhat)",,"Logiciel Système 
+et Virtualisation",7,,,"GPL et autres 
+licences","Système 
+d'Exploitation",,Distribution GNU/LINUX
+,services déconcentrés,R,,Ubuntu – Eole,,"Logiciel Système 
+et Virtualisation",2.5,,,"GPL et autres 
+licences","Système 
+d'Exploitation",,Distribution GNU/LINUX
+,en centre de production,R,,Debian,,"Logiciel Système 
+et Virtualisation",8,,,DFSG,"Système 
+d'Exploitation",,Distribution GNU/LINUX
+,virtualisation serveurs,R,,KVM,,"Logiciel Système 
+et Virtualisation",,,,"GPL
+LGPL","Virtualisation 
+serveur et jusqu'à 
+plateforme",,Hyperviseur
+,infra virtuelle,O,,OpenNebula,,"Logiciel Système 
+et Virtualisation",4.14,,,Apache 2.0,"Virtualisation 
+serveur et jusqu'à 
+plateforme",,Virtualisation de serveurs
+,,R,,"Pacemaker – 
+corosync",,"Logiciel Système 
+et Virtualisation",,,,GPL2,"Haute disponibilité 
+(OS)",,HA-OS \c Hors module applicatif
+,,FV,,Nagios  (Fin de vie),,Opérations,,,,GPL2,"Supervision / 
+Hypervision",,"Supervision Infrastructure et 
+composants de base"
+,,O,,Shinken,,Opérations,,,,AGPL,"Supervision / 
+Hypervision",,
+,,R,,Centreon,,Opérations,2.6.6,,,GPL2,"Supervision / 
+Hypervision",,"Supervision Infrastructure et 
+composants de base"
+,,O,,"OpenSource Job 
+Scheduler",,Opérations,,,,GPL,Ordonnanceur,,Ordonnanceur
+,Serveurs bureautiques,FV,,Samba 3,,Stockage,,,,GPL3,Partage de fichiers,,Serveur Bureautique
+,"En remplacement de 
+Samba 3",R,,Samba 4,,Stockage,4.1,,,GPL3,Partage de fichiers,,Serveur Bureautique
+,Serveur Bureautique,R,,ClamAV,,Sécurité,,,,GPL,Antivirus,,Antivirus \c Orienté serveur
+,,O,,DAVFI/UHURU,,Sécurité,,,,"Apache 2.0
+GPL2",Antivirus,,
+,,R,,OpenLdap,,Sécurité,2.4,,,"OpenLDAP Public 
+License",Authentification,,Annuaire
+,,R,,CAS_SERVER,,Sécurité,4.1,,,Apache 2.0,Authentification,,
+,SSO Web,R,,LemonLDAP NG,,Sécurité,,,,,Authentification,,SSO
+,,R,,LogStach / Kibana,,Sécurité,2.0 / 4.2,,,Apache,Authentification,,
+,,R,,Syslog-ng,,Sécurité,3.7,,,"LGPL
+GPL2",Gestion des logs,,"Gestion des logs en mode 
+centralisé"
+,,R,,"natif sous Linux >= 
+2.6
+dm-crypt",,Sécurité,,,,,Chiffrement,,Chiffrement de fichiers / stockages
+,services déconcentrés,R,,Eole AMON,,Sécurité,2.5,,,"GPL
+CeCCIL
+et autres licences",Pare-feu – Réseau,,Pare-feu réseau et web
+,centres de production,R,,Apache,,Sécurité,,,,Apache 2.0,Reverse Proxy,,Reverse Proxy
+,services déconcentrés,R,,Nginx,,Sécurité,"version 
+distribution",,,BSD,Reverse Proxy,,Reverse Proxy
+,,R,,HAProxy,,Sécurité,1.5,,,GPL2,Load Balancer,,Load Balancer
+,,R,,Cups,,"Intégration & 
+Échanges","version 
+distribution",,,"GPL
+LGPL","Serveur 
+d'impression",,Serveur d'impression
+,,R,,Postfix,,"Intégration & 
+Échanges","version 
+distribution",,,IBM Public License,Serveur SMTP,,Messagerie system
+,ETALAB,O,,BackupPC,,Sauvegarde,"version 
+distribution",,,GPL,Sauvegarde poste,,"Sauvegarde centralisée des postes 
+clients"
+,EOLE,O,,BAREOS,,Sauvegarde,"version 
+distribution",,,AGPL3,Sauvegarde Serveur,,"Sauvegarde Serveurs (Postes 
+possibles)"
